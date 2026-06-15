@@ -1,2 +1,3 @@
 # my-first-repo
-it is practice 
+it is practice
+Author name is mishra manav.
